@@ -850,3 +850,12 @@ html{
 .header__menu__body--content ul a:hover, .header__menu__body--content ul a.active {
     color: var(--yellow);
 }
+.offer__container__item-name p {
+    display: block;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 35px;
+    padding-left: 22px;
+}

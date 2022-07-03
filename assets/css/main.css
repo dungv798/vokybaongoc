@@ -699,7 +699,7 @@ html{
     transition: all .3s ease-in-out;
 }
 
-.offer__container__item-name a {
+.offer__container__item-name p {
     display: block;
     font-size: 16px;
     font-weight: 700;
